@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai3\obj\Debug\Bai3.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai3\bin\Debug\Bai3.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai3\bin\Debug\Bai3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai3\bin\Debug\Bai3.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai3\obj\Debug\Bai3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai3\obj\Debug\Bai3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Bai3\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Bai3\Bai3\obj\Debug\Bai3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Bai3\Bai3\obj\Debug\Bai3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Bai3\Bai3\bin\Debug\Bai3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Bai3\Bai3\bin\Debug\Bai3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Bai3\Bai3\obj\Debug\Bai3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Bai3\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Bai3\Bai3\bin\Debug\Bai3.exe
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Bai3\Bai3\bin\Debug\Bai3.pdb
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Bai3\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Bai3\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Bai3\Bai3\obj\Debug\Bai3.exe
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Bai3\Bai3\obj\Debug\Bai3.pdb

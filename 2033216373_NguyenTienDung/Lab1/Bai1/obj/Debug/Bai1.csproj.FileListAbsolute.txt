@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai1\bin\Debug\Bai1.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai1\bin\Debug\Bai1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai1\bin\Debug\Bai1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai1\obj\Debug\Bai1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab1\Bai1\obj\Debug\Bai1.pdb
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Lab1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Lab1\Bai1\bin\Debug\Bai1.exe
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Lab1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Lab1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Lab1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Lab1\Bai1\obj\Debug\Bai1.exe
+C:\Users\DELL\OneDrive\Máy tính\2033216373_NguyenTienDung\Lab1\Bai1\obj\Debug\Bai1.pdb
